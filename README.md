@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto BottleYou**
+
 
 ### **BottleYou: Sua Busca por Garrafas, Facilitada! **
 
@@ -44,4 +44,3 @@ Quer ajudar a melhorar a BottleYou? Adoraríamos! Basta criar um fork do reposit
 * **Imagens:** Adicione imagens para ilustrar o seu README e torná-lo mais visualmente atraente.
 * **Detalhes técnicos:** Se você quiser, pode adicionar mais detalhes técnicos sobre o projeto, como a estrutura de pastas, as bibliotecas utilizadas, etc.
 
-**Lembre-se:** O README é a primeira impressão que alguém terá do seu projeto. Faça dele um convite para que outras pessoas explorem e contribuam com o seu trabalho!
